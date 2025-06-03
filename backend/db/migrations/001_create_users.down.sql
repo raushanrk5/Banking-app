@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS users CASCADE;
+DROP TYPE IF EXISTS kyc_status_enum;
+DROP TYPE IF EXISTS user_role_enum;
